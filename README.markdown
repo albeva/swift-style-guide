@@ -1,8 +1,8 @@
-# The Official MyDrive Swift Style Guide.
+# Albert's Swift Style Guide.
 
 This style guide is different from others you may see, because the focus is centered on readability for print and the web. We created this style guide to keep the code in our books, tutorials, and starter kits nice and consistent — even though we have many different authors working on the books.
 
-This style guide is forked from (https://github.com/raywenderlich/swift-style-guide) and mofified to align with MyDrive practices and style.
+This style guide is forked from (https://github.com/raywenderlich/swift-style-guide) and mofified to align with my practices and style.
 
 Our overarching goals are clarity, consistency and brevity, in that order.
 
